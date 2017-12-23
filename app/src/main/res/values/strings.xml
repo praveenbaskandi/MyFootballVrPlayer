@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Football Vr Players</string>
+
+    <string name="card_player_name">Player Name</string>
+    <string name="card_player_club">Player Club</string>
+</resources>
